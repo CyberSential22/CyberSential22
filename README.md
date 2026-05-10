@@ -4,8 +4,9 @@ I'm a Computer Science student passionate about **cybersecurity** and **workflow
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
-- Backend: [Add if using Node.js/Python/etc]
-- Tools: Git, GitHub, VS Code, [add others]
+- Backend: Python, Flask
+- Database: SQLite, SQLAlchemy ORM, PostgreSQL
+- Tools: Git, GitHub, VS Code, Antigravity, Qwen
 
 ## 📌 Current Projects
 - **Event Flow Platform** – Automating institutional workflows (BCA-CS Project, JNU Jaipur)
